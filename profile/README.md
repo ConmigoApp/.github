@@ -1,5 +1,7 @@
 ## Hi there, welcome to Conmigo! 👋
 
+We aim to cultivate friendships and networks on college campuses over food! Our software is currently closed-source.
+
 <!--
 
 **Here are some ideas to get you started:**
